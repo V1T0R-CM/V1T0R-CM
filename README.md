@@ -4,10 +4,13 @@ My name is Vitor Carvalho Matos. I started to get interested in programming when
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img alt="JS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/javascript+original-1324760550805182024.png" />
+<img alt="HTML" align="left" width="35px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+html-1324451320119191066.png" />
+<img alt="CSS" align="left" width="35px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+css-1324451270074695333.png" />
+<img alt="REACT" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/react+original-1324760565814167828.png" />
+<img alt="NODEJS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/nodejs+original-1324760553994193787.png" />
+<img alt="VSCODE" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <br />
 
 ### Talk to me by:
