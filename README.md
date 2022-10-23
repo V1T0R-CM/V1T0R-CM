@@ -10,6 +10,7 @@ Meu nome é Vitor Carvalho Matos. Comecei a me interessar por programação quan
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
   <img src="https://img.shields.io/badge/Cypress%20-%2320232a.svg?&style=for-the-badge&color=17202C&logo=Cypress&logoColor=ffffff" style="margin-bottom: 4px;" height="30px"/>
+  <img src="https://img.shields.io/badge/TypeScript%20-%2320232a.svg?&style=for-the-badge&color=3178C6&logo=TypeScript&logoColor=ffffff" style="margin-bottom: 4px;" height="30px" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/jest%20-%2320232a.svg?&style=for-the-badge&color=C21325&logo=jest&logoColor=ffffff"  style="margin-bottom: 4px;" height="30px"/>
