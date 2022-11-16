@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Meu nome é Vitor Carvalho Matos. Comecei a me interessar por programação quando aprendi python durante minhas aulas de computação na faculdade, e atualmente estou estudando no bootcamp Driven Education. Estou procurando me tornar um excelente Desenvolvedor Fullstack e tenho trabalhado duro para atingir esse objetivo, sempre em busca de ma aprimorar no que sei e buscar novas ferramentas para aprender.
+Meu nome é Vitor Carvalho Matos. Comecei a me interessar por programação durante minhas aulas de computação em python na faculdade e esse sentimento ficou ainda mais forte durante os 2 períodos em que dei monitoria de computação em python, após isso, entrei no bootcamp da Driven Education onde aprendi muitas tecnologias novas. Hoje sou um Desenvolvedor Web Fullstack e tenho trabalhado duro para me aprimorar a cada dia, me especializando no que já sei e buscando novas ferramentas para aprender.
 
 ## Tecnologias:
 #### Front-end
